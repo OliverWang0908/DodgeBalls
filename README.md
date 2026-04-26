@@ -71,7 +71,7 @@ To contribute, fork the repo, make changes, and open a pull request with a brief
 
 ## License
 
-This project is provided as-is. If you want a simple permissive license, consider adding an `MIT` or `Unlicense` file.
+The Unlicense
 
 ## Credits
 
