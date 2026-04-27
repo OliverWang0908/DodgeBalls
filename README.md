@@ -10,10 +10,6 @@ Dodge the Balls is a small, charming arcade-style Python game where you control 
 - Decorative snowfall effect for atmosphere.
 - Lightweight: a single-folder project using only Python and Pygame.
 
-## Screenshot
-
-Add a screenshot here (place an image named `screenshot.png` in the project folder) to show off the gameplay.
-
 ## Requirements
 
 - Python 3.8+ (likely any modern Python 3 release)
