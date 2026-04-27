@@ -1,4 +1,6 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_olw9tcolw9tcolw9" src="https://github.com/user-attachments/assets/e39972d6-9bae-4b57-9b89-04a80bbb13db" />
+
+
 # Dodge the Balls
 
 Dodge the Balls is a small, charming arcade-style Python game where you control a player sprite and try to survive as long as possible while colorful balls fall from the sky. With a cozy snowfall effect, responsive controls, and an ever-increasing challenge, this little game is perfect for quick breaks, demos, or learning how simple game mechanics work with Pygame.
