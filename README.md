@@ -1,4 +1,5 @@
-[screenshot.pdf](https://github.com/user-attachments/files/27177010/screenshot.pdf)
+<img width="668" height="896" alt="screenshot" src="https://github.com/user-attachments/assets/8c216268-6c90-4b53-839d-400ad6c4c662" />
+
 
 
 
