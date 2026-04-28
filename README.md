@@ -73,7 +73,7 @@ To contribute, fork the repo, make changes, and open a pull request with a brief
 
 ## License
 
-The Unlicense
+Unlicense
 
 ## Credits
 
