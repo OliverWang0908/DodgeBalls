@@ -33,12 +33,13 @@ If you use a virtual environment, activate it first, then install without `--use
 Make sure `player.png` is present in the same folder as the game scripts. Then run the game from the project directory:
 
 ```bash
-python3 "# RUN.py"
+cd DodgeBalls
+python3 RUN.py
 ```
 
 Notes:
-- The main loop and entry point are in `# RUN.py` (yes, the file name begins with a `#` and a space). Use the exact command above or rename the file to `run.py` if you prefer a simpler file name.
-- If the window is too large or small, edit the `WIDTH` and `HEIGHT` variables at the top of `# RUN.py`.
+- The main loop and entry point are in `RUN.py`.
+- If the window is too large or small, edit the `WIDTH` and `HEIGHT` variables at the top of `RUN.py`.
 
 ## Controls
 
