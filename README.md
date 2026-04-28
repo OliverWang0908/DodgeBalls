@@ -52,12 +52,12 @@ Notes:
 
 ## How it works (quick dev notes)
 
-- `# RUN.py`: bootstraps Pygame, sets up the window, spawns falling `Ball` objects, tracks time-based score, and contains the main game loop.
+- `RUN.py`: bootstraps Pygame, sets up the window, spawns falling `Ball` objects, tracks time-based score, and contains the main game loop.
 - `Sprite.py`: defines `Player`, `Ball`, and `SnowFlake` classes. The `Player` uses `player.png` as its sprite.
 - `Window.py`: creates the Pygame window, the clock, and a shared font for on-screen text.
 
 If you'd like to tinker:
-- Change `move_speed` in `# RUN.py` to make the player faster/slower.
+- Change `move_speed` in `RUN.py` to make the player faster/slower.
 - Adjust spawn timing or `fall_speed` growth to tune difficulty.
 - Replace `player.png` with your own 60×60 image to change the player look.
 
